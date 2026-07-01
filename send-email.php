@@ -166,7 +166,7 @@ IP Address: ". $ip . " |\r\n
 
 
 
-Project: ". $project = "Godrej Bannerghatta, South Bangalore" . " |\r\n
+Project: ". $project = "Godrej Greenvale, Raipur" . " |\r\n
 
 
 
